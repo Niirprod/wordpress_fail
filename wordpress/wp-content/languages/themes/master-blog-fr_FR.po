@@ -1,0 +1,261 @@
+# Translation of Themes - Master Blog in French (France)
+# This file is distributed under the same license as the Themes - Master Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-26 14:02:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Master Blog\n"
+
+#. Theme Name of the theme
+msgid "Master Blog"
+msgstr "Master Blog"
+
+#. Description of the theme
+msgid "Master Blog is clean, modern and fast loading responsive WordPress Blog theme. Theme supports custom header, logo or background and it is easy to use. Master Blog is SEO friendly, WPML, translation and RTL ready. DEMO: https://headthemes.com/master-blog-demo/"
+msgstr "Master Blog est un thème WordPress rapide, propre et responsive de blog. Il prend en charge l'en-tête personnalisé, le logo ou l’arrière-plan et il est facile à utiliser. Master Blog est optimisé SEO, et est prêt pour WPML, traduit et RTL. Démo : https://headthemes.com/master-blog-demo/"
+
+#: lib/customizer/info.php:11
+msgid "Video Documentation & Demo"
+msgstr "Documentation vidéo et démo"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:25
+msgid "You can use this theme to create a website like these %1$s"
+msgstr "Vous pouvez utiliser ce thème pour créer un site tel que ces %1$s"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:25
+msgid "demos"
+msgstr "démos"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/info.php:28
+msgid "For step-by-step videos and text tutorials, see %1$s"
+msgstr "Pour des vidéos étape par étape et des textes de tutoriels, découvrez la %1$s"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/info.php:28
+msgid "documentation"
+msgstr "documentation"
+
+#: lib/dashboard.php:28
+msgid "Master Blog theme"
+msgstr "Thème Master Blog"
+
+#: lib/dashboard.php:30
+msgid "Master Blog dashboard"
+msgstr "Tableau de bord Master Blog"
+
+#. translators: %1$s: theme name, %2$s theme version
+#. translators: %1$s theme name, %2$s theme version
+#: lib/dashboard.php:51 lib/dashboard.php:107
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Bienvenue dans %1$s - Version %2$s"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/dashboard.php:58
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Bienvenue ! Merci d’avoir choisi %1$s ! Pour tirer pleinement avantage de notre meilleur thème, n’oubliez pas de vous rendre sur notre <a href=\"%2$s\">page de bienvenue</a>."
+
+#. translators: %s theme name
+#: lib/dashboard.php:66
+msgid "Get started with %s"
+msgstr "Démarrer avec %s"
+
+#: lib/dashboard.php:122
+msgid "Theme Customizer"
+msgstr "Personnalisation du thème"
+
+#. translators: %s theme name
+#: lib/dashboard.php:126
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "%s prend en charge la personnalisation de thème pour tous les réglages du thème. Cliquez sur « Personnaliser » pour vous lancer."
+
+#: lib/dashboard.php:130
+msgid "Start customizing"
+msgstr "Commencer la personnalisation"
+
+#: lib/dashboard.php:134
+msgid "Theme documentation"
+msgstr "Documentation du thème"
+
+#. translators: %s theme name
+#: lib/dashboard.php:138
+msgid "Need help in setting up and configuring %s? Please take a look at our documentation page."
+msgstr "Besoin d’aide pour installer et configurer %s ? Veuillez jeter un œil à notre page de documentation. "
+
+#. translators: %s theme name
+#: lib/dashboard.php:145
+msgid "%s Documentation"
+msgstr "Documentation de %s"
+
+#: lib/dashboard.php:151
+msgid "Having trouble? Need support?"
+msgstr "Vous avez des problèmes ? Besoin d’aide ?"
+
+#: lib/dashboard.php:153
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+#: lib/customizer/info.php:143
+msgid "Upgrade to"
+msgstr "Passez à "
+
+#: 404.php:10
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aïe ! Cette page est introuvable."
+
+#: 404.php:12
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Apparemment, rien n’a été trouvé à cette adresse. Essayez avec une recherche ?"
+
+#. translators: %1$s: number of comments
+#: comments.php:17
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s commentaire"
+msgstr[1] "%1$s commentaires"
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr "Rien n’a été trouvé"
+
+#. translators: %1$s: link to admin area
+#: content-none.php:8
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: content-single.php:12 content.php:14
+msgid "By"
+msgstr "Par "
+
+#: content.php:37
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: functions.php:20
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: functions.php:122
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: functions.php:194
+msgid "Section before content"
+msgstr "Section avant le contenu"
+
+#: functions.php:204
+msgid "Right Sidebar"
+msgstr "Colonne latérale droite"
+
+#: functions.php:214
+msgid "Footer Section"
+msgstr "Pied de page"
+
+#: functions.php:258
+msgid "Category"
+msgstr "Catégorie"
+
+#: functions.php:262
+msgid "Tags"
+msgstr "Mots-clés"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:286
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:286
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: %1$s: Theme name with theme home URL
+#: functions.php:291
+msgid "Theme: %1$s"
+msgstr "Thème : %1$s"
+
+#: functions.php:312
+msgid "Off"
+msgstr "Non"
+
+#: functions.php:314
+msgid "Comment on "
+msgstr "Commentaire sur"
+
+#: includes/widgets/popular-posts.php:18
+msgid "Displays your popular posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr "Affiche vos articles populaires avec miniature et date. Usage recommandé : colonne ou pied de page."
+
+#: includes/widgets/popular-posts.php:21
+msgid "Master Blog: Popular posts"
+msgstr "Master Blog : Articles populaires"
+
+#: includes/widgets/popular-posts.php:97
+msgid "Popular posts"
+msgstr "Articles populaires"
+
+#: includes/widgets/recent-posts.php:100 includes/widgets/popular-posts.php:102
+msgid "Title:"
+msgstr "Titre :"
+
+#: includes/widgets/recent-posts.php:106 includes/widgets/popular-posts.php:108
+msgid "Number of posts:"
+msgstr "Nombre d’articles :"
+
+#: includes/widgets/recent-posts.php:18
+msgid "Displays your recent posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr "Affiche vos articles récents avec miniature et date. Usage recommandé : colonne ou pied de page."
+
+#: includes/widgets/recent-posts.php:21
+msgid "Master Blog: Recent posts"
+msgstr "Master Blog : Articles récents"
+
+#: includes/widgets/recent-posts.php:95
+msgid "Recent posts"
+msgstr "Articles récents"
+
+#: lib/wp_bootstrap_navwalker.php:206
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#. translators: %s: search result
+#: search.php:13
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s "
+
+#: template-parts/template-part-postauthor.php:4
+msgid "About The Author"
+msgstr "À propos de l’auteur"
+
+#. Theme URI of the theme
+msgid "https://headthemes.com/theme/master-blog/"
+msgstr "https://headthemes.com/theme/master-blog/"
+
+#. Author of the theme
+msgid "HeadThemes"
+msgstr "HeadThemes"
+
+#. Author URI of the theme
+msgid "https://headthemes.com/"
+msgstr "https://headthemes.com/"
